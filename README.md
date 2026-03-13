@@ -66,6 +66,11 @@ What are common applications of AI?
 * Add LLM-based answer generation
 * Deploy using Streamlit Cloud
 * Improve UI with chat interface
+## Live Demo
+
+Try the application here:
+
+https://llm-pdf-chatbot-fdbvzf2rpuwnr7xxplx59z.streamlit.app/
 
 ## Author
 
